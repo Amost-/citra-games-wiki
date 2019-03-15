@@ -1,0 +1,9 @@
+title = "PERSONA Q2 New Cinema Labyrinth"
+description = "Second entry in the Persona Q franchise produced by Atlus. Join the cast from P3, P4 and P5 in the cinema wold to unravel it's mysteries."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001CBE00"
+region = "jpn"
+release_date = "2018-11-29"
